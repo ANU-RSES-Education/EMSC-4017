@@ -283,6 +283,8 @@ Plans for data management and sharing of the products of research. Proposals mus
 
   - Figshare (https://www.figshare.org) - started out as a place to keep large posters and maps but is now #text(fill: red.darken(20%))["a home for papers, FAIR data and non-traditional research outputs that is easy to use and ready now"]. This is another way to apply for a DOI for your data.
 
+  - ArXiv / EarthArXiv - "#link("https://arxiv.org")[arXiv] is a free distribution service and an open-access archive for nearly 2.4 million scholarly articles in the fields of physics, mathematics, computer science, quantitative biology, quantitative finance, statistics, electrical engineering and systems science, and economics." / "Active since 2017, #link("https://eartharxiv.org/")[EarthArXiv] is a preprint server devoted to open scholarly communication. EarthArXiv publishes articles from all subdomains of Earth Science and related domains of planetary science. The EarthArXiv platform assigns each submission a Digital Object Identifier (DOI), therefore assigning provenance and making it citable in other scholarly works."
+
   - https://www.geo-down-under.org.au - this is an Earth Science blog that you are welcome to write articles for if you want. It is a little bit unusual in that all blog posts are given a DOI. Do you think blog posts deserve a DOI ? What about tweets or text messages ?
 
 
